@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billiards", "Billiards\Billiards.csproj", "{A25B42F0-B604-4EA9-A128-3AB18AAD3279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoBallTest", "TwoBallTest\TwoBallTest.csproj", "{611A17DF-3E20-4007-86C6-A452EEE201FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25B42F0-B604-4EA9-A128-3AB18AAD3279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25B42F0-B604-4EA9-A128-3AB18AAD3279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25B42F0-B604-4EA9-A128-3AB18AAD3279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25B42F0-B604-4EA9-A128-3AB18AAD3279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611A17DF-3E20-4007-86C6-A452EEE201FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611A17DF-3E20-4007-86C6-A452EEE201FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611A17DF-3E20-4007-86C6-A452EEE201FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611A17DF-3E20-4007-86C6-A452EEE201FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88E3B1FA-74F7-4AFD-998F-1D672B423B9B}
+	EndGlobalSection
+EndGlobal
