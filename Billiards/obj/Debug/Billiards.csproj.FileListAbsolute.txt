@@ -1,0 +1,9 @@
+D:\C#\Billiards\Billiards\bin\Debug\Billiards.exe.config
+D:\C#\Billiards\Billiards\bin\Debug\Billiards.exe
+D:\C#\Billiards\Billiards\bin\Debug\Billiards.pdb
+D:\C#\Billiards\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+D:\C#\Billiards\Billiards\obj\Debug\Billiards.Form1.resources
+D:\C#\Billiards\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+D:\C#\Billiards\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+D:\C#\Billiards\Billiards\obj\Debug\Billiards.exe
+D:\C#\Billiards\Billiards\obj\Debug\Billiards.pdb
